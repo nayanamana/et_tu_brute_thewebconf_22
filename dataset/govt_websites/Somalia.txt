@@ -1,0 +1,16 @@
+as.parliament.gov.so
+centralbank.gov.so
+gsh.parliament.gov.so
+hopwc.parliament.gov.so
+mfa.gov.so
+mof.gov.so
+moh.gov.so
+moj.gov.so
+opm.gov.so
+parliament.gov.so
+senate.parliament.gov.so
+sonic.so
+villasomalia.gov.so
+www.immigration.gov.so
+www.mfa.gov.so
+www.somalia.gov.so

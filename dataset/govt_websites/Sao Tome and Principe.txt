@@ -1,0 +1,10 @@
+cnmc.gov.st
+gip.justica.gov.st
+impostos.financas.gov.st
+mecc.gov.st
+www.cnmc.gov.st
+www.dre.gov.st
+www.financas.gov.st
+www.gip.justica.gov.st
+www.justica.gov.st
+www.sigesa.gov.st

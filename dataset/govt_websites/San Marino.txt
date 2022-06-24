@@ -1,0 +1,16 @@
+dipartimentoterritorio.pa.sm
+www.asdi.gov.sm
+www.autoritaenergia.sm
+www.bcsm.sm
+www.educazione.sm
+www.esteri.sm
+www.gov.sm
+www.industria.sm
+www.interni.segreteria.sm
+www.pa.sm
+www.poste.sm
+www.sportelloenergia.sm
+www.statistica.sm
+www.xbrl.sm
+lavoro.segreteria.sm
+interni.segreteria.sm

@@ -1,0 +1,5 @@
+lv.fo
+landsbank.fo
+politi.fo
+tourist.fo
+svf.fo
